@@ -6,12 +6,12 @@
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 20%;
-    background-color: rgb(94, 94, 94); /* Black */
+    background-color: rgb(84, 84, 84); /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
     padding-left:6px;
     padding-right: 6px;
-    
+    color: rgba(255, 255, 255, 0.616);
   }
   
   /* Style page content */
@@ -31,5 +31,7 @@ body {
     width: 42%;
     margin: 0 auto;
     padding-left: 35%;
-    padding-right:
+}
+.Bild1 {
+  border-bottom: 3px solid rgba(255, 254, 254, 0.705);
 }
