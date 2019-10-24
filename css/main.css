@@ -31,6 +31,8 @@ body {
     width: 42%;
     margin: 0 auto;
     padding-left: 35%;
+    font-family: 'Montserrat', sans-serif;
+    
 }
 .Bild1 {
   border-bottom: 3px solid rgba(255, 254, 254, 0.705);
