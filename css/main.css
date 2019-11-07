@@ -1,6 +1,6 @@
 /* The sidebar menu */
 .sidenav {
-    height: 150%; /* Full-height: remove this if you want "auto" height */
+    height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 15%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
@@ -12,6 +12,8 @@
     padding-left:6px;
     padding-right: 6px;
     color: rgba(255, 255, 255, 0.616);
+    margin: auto;
+    text-align: center;
     
   }
   
@@ -23,6 +25,7 @@
     width: 100%;
     padding-right: 40px;
     padding-left: 40px;
+    
   
   }
   
