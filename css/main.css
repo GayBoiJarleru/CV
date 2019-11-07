@@ -1,6 +1,6 @@
 /* The sidebar menu */
 .sidenav {
-    <center>
+    
     height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 15%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
@@ -13,19 +13,18 @@
     padding-left:6px;
     padding-right: 6px;
     color: rgba(255, 255, 255, 0.616);
-    </center>
+    
   }
   
   /* Style page content */
   .main {
-    <center>
     padding: 0px 10px;
     height: 1000px;
     background-color: rgb(170, 170, 170);
     width: 100%;
     padding-right: 40px;
     padding-left: 40px;
-    </center>
+  
   }
   
 body {
